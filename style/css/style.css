@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(153, 255, 153);;
+}
+.img-content{
+    height: 95px;
+}
+.isi{
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+.isi-footer{
+    margin-top: -35px;
+    margin-bottom: 15px;
+}
+.btn-group button{
+    float: left;
+    margin-right: 20px;
+}
+.btn_isi{
+    margin-top: 70px;
+    text-align: center;
+}
+.jumbotron{
+    background-color: rgb(153, 255, 153);
+}
+.footer_icon{
+    margin-right: 30px;
+}
+.footer_icon p{
+    float: right;
+    margin: 0 0 0 10px;
+}
+.footer_icon img{
+    height: 30px;
+}
+.footer_text p{
+    float: left;
+    padding-left: 20px;
+}
+.footer_text a{
+    color: #ffffff;
+}
